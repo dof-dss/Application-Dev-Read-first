@@ -4,7 +4,9 @@ Repo for App Dev to store standard operating procedures and How to guides
 Start here:
 
 GDS Design principles - https://www.gov.uk/guidance/government-design-principles
+
 This provides good documentation on Gov UK PaaS and what it is about - https://docs.cloud.service.gov.uk/
+
 GDS Design system for designing our applications - https://design-system.service.gov.uk/
 
 *Tools to setup*
