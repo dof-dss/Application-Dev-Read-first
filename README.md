@@ -23,6 +23,15 @@ Xampp - https://www.apachefriends.org/download.html
 
 Retire.js Chrome plugin (this checks for vulnerable libraries) - https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom?hl=en
 
+Wave - https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
+
 Axe accessibility Chrome plugin - https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd
 
 Chrome Lighthouse Auditing tools - this is built into Chrome
+
+Aria checker – https://chrome.google.com/webstore/detail/aria-validator/oigghlanfjgnkcndchmnlnmaojahnjoc
+
+AA accessibility checker
+https://achecker.ca/checker/index.php
+
+Use this site to copy html source to check for accessibility errors.
